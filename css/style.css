@@ -30,10 +30,11 @@ p
 }
 .banner .content h2
 {
-  font-size: 5px;
+  font-size: 5em;
   color: #fff;
 }
 .banner .content p
 {
-  
+  font-size: 1em;
+  color: #fff;
 }
