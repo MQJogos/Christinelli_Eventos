@@ -23,3 +23,9 @@ p
   background: url(bg.jpg);
   background-size:cover;
 } 
+.banner .content
+{
+  max-width: 900px;
+  text-align: center;
+  
+}
