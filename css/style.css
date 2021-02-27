@@ -27,5 +27,13 @@ p
 {
   max-width: 900px;
   text-align: center;
+}
+.banner .content h2
+{
+  font-size: 5px;
+  color: #fff;
+}
+.banner .content p
+{
   
 }
