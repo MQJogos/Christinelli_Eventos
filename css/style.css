@@ -62,5 +62,11 @@ header
   justify-content: space-between;
   align-items: center;
   transition: 0.5%;
-  
+}
+header .logo
+{
+  color: #fff;
+  font-weight: 700;
+  font-size: 2em;
+  text-decoration: none;
 }
