@@ -71,3 +71,17 @@ header .logo
   text-decoration: none;
 }
 header .logo span
+{
+  color: #ff0157
+}
+header .navigation
+{
+  position:relative;
+  display: flex;
+}
+header .navigation li
+{
+  list-style: none;
+  margin-left: 30px;
+}
+header .navigation li a
